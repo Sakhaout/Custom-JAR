@@ -1,1 +1,12 @@
+#This is the Documentation of this JAR SeleniumFunction-1.0.1
+
 C:\Users\Hossain Sakhaout\Desktop\MavenProject\Extent_report\docs_seleniumAction\index.html
+
+
+# This is my local Maven Dependency
+
+<dependency>
+	<groupId>selenium.common.method</groupId>
+	<artifactId>selenium.common.method</artifactId>
+	<version>1.0.1</version>
+</dependency>
